@@ -15,21 +15,21 @@ and system design.
 ---
 ## Current Progress
 
--[x] Created the Spring Boot application
+- [x] Created the Spring Boot application
 
--[x] Implemented a basic health endpoint: GET /health
+- [x] Implemented a basic health endpoint: GET /health
 
--[] Connect Spring Boot to PostgreSQL
+- [] Connect Spring Boot to PostgreSQL
 
--[] Create URL shortening functionality
+- [] Create URL shortening functionality
 
--[] Implement redirects and click tracking
+- [] Implement redirects and click tracking
 
--[] Add user registeration and login
+- [] Add user registeration and login
 
--[] Explore caching with Redis
+- [] Explore caching with Redis
 
--[] Implementing the application with Docker
+- [] Implementing the application with Docker
 
 ---
 ## Goal
