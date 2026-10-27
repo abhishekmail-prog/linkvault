@@ -16,12 +16,19 @@ and system design.
 ## Current Progress
 
 -[x] Created the Spring Boot application
+
 -[x] Implemented a basic health endpoint: GET /health
+
 -[] Connect Spring Boot to PostgreSQL
+
 -[] Create URL shortening functionality
+
 -[] Implement redirects and click tracking
+
 -[] Add user registeration and login
+
 -[] Explore caching with Redis
+
 -[] Implementing the application with Docker
 
 ---
